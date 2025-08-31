@@ -17,25 +17,3 @@ The goal is to classify customers into two groups:
 
 ---
 
-## 📊 Project Workflow
-1. **Data Preprocessing**
-   - Handle categorical and numerical features  
-   - Deal with missing values & outliers  
-   - Feature encoding and scaling  
-
-2. **Exploratory Data Analysis (EDA)**
-   - Visualizing churn patterns  
-   - Identifying correlations between features  
-
-3. **Modeling**
-   - Logistic Regression  
-   - Decision Tree / Random Forest  
-   - XGBoost or other advanced models  
-
-4. **Evaluation**
-   - Accuracy, Precision, Recall, F1-score  
-   - Confusion Matrix and ROC-AUC  
-
----
-
-## 📂 Project Structure
